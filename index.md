@@ -31,13 +31,13 @@ Likely to be unrelated to the lore but still nice to have.<br>
 Putting a skull on its colored altar makes the symbol on the skull glow and the altar fills with mercury/sulphur.<br>
 Putting a torch on the salt altar fills it with salt if it does something (P-1 entrance, the Moon torch in 4-2, generator room altar with the starting torch).<br>
 
-## The Sun Headed Lion Statue
+## The Lion Eating the Sun Statue
 ![this fucker might also be important](images/image11.png)<br>
 <img src="images/image13.png" alt="Lion statue" style="max-width: 100%; height: auto;"><br>
 ![](images/image5.png)<br>
-![](images/image20.png)<br>
-The image appears to be a statue of a lion with its head missing, possibly stolen by the Hideous Mass. Next to it lies the Sun.<br>
-This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)<br>
+![](images/FRAUD-lion-eating-the-sun.png)<br>
+This is a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is gold (https://en.wikipedia.org/wiki/Suns_in_alchemy)<br>
+
 
 ## 4-3
 4-3 seems to be an alchemical facility. It contains piles of magnesium spread around the level.<br>
