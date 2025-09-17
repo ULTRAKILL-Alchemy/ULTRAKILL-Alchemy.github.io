@@ -21,15 +21,31 @@ Likely to be unrelated to the lore but still nice to have.<br>
 ![](images/image19.png)<br>
 
 ## Skeletons and Symbols
-![](images/image4.jpg)<br>
-![](images/image6.png)<br>
-![](images/image3.png)<br>
-![](images/image12.png)<br>
-![](images/image1.png)<br>
-![](images/image2.png)<br>
+Each skull and pedestal in ULTRAKILL bears a symbol representing a substance of the [tria prima of alchemy](https://en.wikipedia.org/wiki/Alchemical_symbol#Three_primes).<br>
+Pedestals will fill with their corresponding substance when activated.<br>
+
+| Color | Substance | Symbol |
+|-------|-----------|:------:|
+| Blue  | Mercury   | ☿      |
+| Red   | Sulfur    | 🜍      |
+| White | Salt      | 🜔      |
+
+| Skull                            | Pedestal                               | Activated                                              |
+|----------------------------------|----------------------------------------|--------------------------------------------------------|
+| ![Blue skull](images/BlueSkull.webp) | ![Blue pedestal](images/BluePedestal.webp) | ![Blue pedestal with skull](images/BluePedestalSkull.webp) |
+| ![Red skull](images/RedSkull.webp)   | ![Red pedestal](images/RedPedestal.webp)   | ![Red pedestal with skull](images/RedPedestalSkull.webp)   |
+
+![Ferryman statue holding white skull](images/image12.png)<br>
+![White skull in generator](images/image1.png)<br>
+
+White skulls can be found in:
+- 1-1, held by a ferryman statue
+- 4-3, in the central generator in the last room
+- 4-4, in tombs laying beside the path to the V2 arena
+- 6-2, in the Gabriel arena
+
+[This video](https://youtu.be/Z_uDuBMCPPw?t=385) provides some information on this topic, amongst other things.<br>
 ![](images/image18.png)<br>
-Putting a skull on its colored altar makes the symbol on the skull glow and the altar fills with mercury/sulphur.<br>
-Putting a torch on the salt altar fills it with salt if it does something (P-1 entrance, the Moon torch in 4-2, generator room altar with the starting torch).<br>
 
 ## The Sun Headed Lion Statue
 ![this fucker might also be important](images/image11.png)<br>
